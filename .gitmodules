@@ -1,0 +1,3 @@
+[submodule "simula_logo/penrose"]
+	path = simula_logo/penrose
+	url = https://github.com/xnx/penrose
